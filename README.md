@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/akvsx/akvsx/refs/heads/main/assets/doodles.png" />
 
-<h2 align='center'>Hello Devs! &nbsp; I'm Akshay Vs <img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/winking-face.gif" width="38" /></h2>
+<h2 align='center'>Hello Devs! &nbsp; I'm Akshay Vs</h2>
 <h3 align="center"> I'm a fully-stacked TypeScripter with an unhealthy relationship with Linux 🐧</h3>
 <h3 align="center"> 🌟 Writing Bugs since 2019! 🚀</h3>
 <p align='center'> 
