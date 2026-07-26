@@ -21,12 +21,12 @@
 <details open> 
     <summary><h2 align="left"> Stats 📈📊</h2></summary>
  <div>
-    <img align="left" src="https://github-readme-stats-nine-delta-30.vercel.app/api?username=akshay-vs&show_icons=true&locale=en&theme=radical" alt="akshay-vs" />
-    <img align="center" src="https://github-readme-stats-nine-delta-30.vercel.app/api/top-langs?username=akshay-vs&show_icons=true&locale=en&layout=compact&theme=radical" alt="akshay-vs" />
+    <img align="left" src="https://github-readme-stats-nine-delta-30.vercel.app/api?username=akvsx&show_icons=true&locale=en&theme=radical" alt="akvsx" />
+    <img align="center" src="https://github-readme-stats-nine-delta-30.vercel.app/api/top-langs?username=akvsx&show_icons=true&locale=en&layout=compact&theme=radical" alt="akvsx" />
 </div>
     
 <div>
-    <img align="right" src="https://github-profile-trophy.vercel.app/?username=akshay-vs&theme=nord&column=3&margin-w=5.11&margin-h=6&title=Followers,Stars,MultiLanguage,Commit,Experience,PullRequest&noframe=true" alt="profile-trophy" width="36%" height=260/>
+    <img align="right" src="https://github-profile-trophy.vercel.app/?username=akvsx&theme=nord&column=3&margin-w=5.11&margin-h=6&title=Followers,Stars,MultiLanguage,Commit,Experience,PullRequest&noframe=true" alt="profile-trophy" width="36%" height=260/>
     <a href="https://gitroll.io/profile/u4Ha4Qgr6HaOyoPGKepy3YSjBfRy2"><img align="center" src="https://gitroll.io/api/badges/profiles/v1/u4Ha4Qgr6HaOyoPGKepy3YSjBfRy2?theme=tokyoNight" height=261 width="40%"/> </a>
 </div>
 </details>
@@ -136,7 +136,7 @@
         <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
         <pre>
   <h3 align="center">Passlock</h3>
-    <a href="https://github.com/Akshay-Vs/PassLock"><img align="center" herf="https://github.com/Akshay-Vs/PassLock" src="https://github.com/Akshay-Vs/PassLock/blob/main/.resources/images/Screenshot-1.png" height="100%" width="97%"/></a>
+    <a href="https://github.com/akvsx/PassLock"><img align="center" herf="https://github.com/akvsx/PassLock" src="https://github.com/akvsx/PassLock/blob/main/.resources/images/Screenshot-1.png" height="100%" width="97%"/></a>
     <b><br>Passlock is a password manager that encrypt and save passwords securly on your local machine</b>
     <br>
     </pre>
@@ -150,7 +150,7 @@
     </pre>
    
  </pre>
-    <a href="https://github.com/Akshay-Vs/Akshay-Vs/blob/main/Projects/Ptojects.md">
+    <a href="https://github.com/akvsx/akvsx/blob/main/Projects/Ptojects.md">
         <h3 align="center">See more →</h3>
     </a>
     <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
@@ -160,8 +160,8 @@
 
 <img src="https://thumbs.gfycat.com/FreshAltruisticAnemone-size_restricted.gif" height="8" width="100%" align="center">
 
-<img src="https://raw.githubusercontent.com/Akshay-Vs/Akshay-Vs/output/github-contribution-grid-snake-dark.svg" width="100%" align="center">
+<img src="https://raw.githubusercontent.com/akvsx/akvsx/output/github-contribution-grid-snake-dark.svg" width="100%" align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Akshay-Vs&color=blueviolet&style=plastic"/> </a> </p>
+<img src="https://komarev.com/ghpvc/?username=akvsx&color=blueviolet&style=plastic"/> </a> </p>
 
 </p>
