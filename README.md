@@ -156,12 +156,6 @@
     <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 </details>
 
-<h1 align="center">BTW, I Use Arch 💪</h1>
-
-<img src="https://thumbs.gfycat.com/FreshAltruisticAnemone-size_restricted.gif" height="8" width="100%" align="center">
-
-<img src="https://raw.githubusercontent.com/akvsx/akvsx/output/github-contribution-grid-snake-dark.svg" width="100%" align="center">
-
-<img src="https://komarev.com/ghpvc/?username=akvsx&color=blueviolet&style=plastic"/> </a> </p>
+<img src="https://komarev.com/ghpvc/?username=akshay-vs&color=blueviolet&style=plastic"/> </a> </p>
 
 </p>
