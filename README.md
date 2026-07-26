@@ -3,13 +3,13 @@
 <h2 align='center'>Hello Devs! &nbsp; I'm Akshay Vs</h2>
 <h3 align="center"> I'm a fully-stacked TypeScripter with an unhealthy relationship with Linux 🐧</h3>
 <h3 align="center"> 🌟 Writing Bugs since 2019! 🚀</h3>
+
+<br />
+
 <p align='center'> 
-    <a href="[https://linktr.ee/akshay_vs](https://www.linkedin.com/in/me-akshay-vs/)" target="_blank" rel="noreferrer noopener"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linktree" width="120" height="30"/> </a>
-    <a href="mailto:akvs.dev@gmail.com?subject=Hello%20again" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" width="100" height="30"/> </a>
-    <a href="https://twitter.com/Akshay_vs__" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="akshay-vs" height="30" width="120" /></a>
-    <a href="https://www.instagram.com/akshay._.vs__/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="__akshay_v5"__ height="30" width="120" /></a>
-    <a href="https://linktr.ee/akshay_vs" target="_blank" rel="noreferrer noopener"><img align="center" src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="linktree" width="120" height="30"/> </a>
-    
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/akvs-dev/"/>
+    <img src="https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" href="mailto:akxvs@proton.me"/>
+    <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white" href="https://mastodon.social/@akvs"/>
 </p>
 
 <details open> 
