@@ -1,4 +1,4 @@
-<img src="https://ik.imagekit.io/geeekg65rf/cover-01?updatedAt=1730273870182" />
+<img src="https://raw.githubusercontent.com/akvsx/akvsx/refs/heads/main/assets/doodles.png" />
 
 <h2 align='center'>Hello Devs! &nbsp; I'm Akshay Vs <img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/winking-face.gif" width="38" /></h2>
 <h3 align="center"> I'm a fully-stacked TypeScripter with an unhealthy relationship with Linux 🐧</h3>
