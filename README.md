@@ -7,13 +7,13 @@
 <br />
 
 <p align='center'> 
-    <a href="https://www.linkedin.com/in/akvsx/">
+    <a href="https://www.linkedin.com/in/akvsx/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <a  href="mailto:akvsx@proton.me">
+    <a  href="mailto:akvsx@proton.me" target="_blank">
         <img src="https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white"/>
     </a>
-    <a href="https://mastodon.social/@akvs">
+    <a href="https://mastodon.social/@akvs" target="_blank">
         <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white" />
     </a>
 </p>
