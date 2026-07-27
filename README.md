@@ -10,7 +10,7 @@
     <a href="https://www.linkedin.com/in/akvsx/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <a  href="mailto:akxvs@proton.me">
+    <a  href="mailto:akvsx@proton.me">
         <img src="https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white"/>
     </a>
     <a href="https://mastodon.social/@akvs">
