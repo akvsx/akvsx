@@ -28,7 +28,7 @@
 </details>
 
 <details open> 
-    <summary><h2 align="left"> My Stack ⚙️🛠️</h2></summary>
+    <summary><h2 align="left"> Core Stack ⚙️🛠️</h2></summary>
 
 | Category | Technologies |
 |----------|--------------|
