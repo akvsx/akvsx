@@ -18,14 +18,14 @@
     </a>
 </p>
 
-<details open> 
+<!-- <details open> 
     <summary><h2 align="left"> Stats 📈📊</h2></summary>
  <div>
     <img align="left" src="https://github-readme-stats-nine-delta-30.vercel.app/api?username=akvsx&show_icons=true&locale=en&theme=radical" alt="akvsx" />
         <a href="https://gitroll.io/profile/u4Ha4Qgr6HaOyoPGKepy3YSjBfRy2"><img align="center" src="https://gitroll.io/api/badges/profiles/v1/u4Ha4Qgr6HaOyoPGKepy3YSjBfRy2?theme=tokyoNight" height=261 width="40%"/> </a>
  </div>
     
-</details>
+</details> -->
 
 <details open> 
     <summary><h2 align="left"> Core Stack ⚙️🛠️</h2></summary>
